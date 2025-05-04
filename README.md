@@ -37,29 +37,19 @@ Investigated whether the number of different skills offered in a category/sub-ca
 
 ### **Technology Stack**  
 - **Data Sources:**  CSV 
-- **Tools:** Power BI, Power Query, DAX.  
-
-### **Execution Steps**  
-
-1. **Data Modeling**: Built a star schema with factEcommerce as the central table, ensuring referential integrity through one-to-many relationships.
-2. **Data Cleaning & Transformation**: Cleaned data using Power Query, standardized naming, and ensured data types and keys were consistent.
-3. **Visualization**: Developed multi-page reports with performance metrics, including maps for regional analysis and charts for payment trends.
-4. **Image Mapping**: Merged product and country flag images using Product ID and Country as keys, allowing for enriched visuals.
-5. **Time Intelligence**: Used the Calendar table to support YoY and MoM growth analysis.
-6. **User Experience Design**: Included bookmarks for better usability.
-
-
+- **Tools:** Power BI, Power Query, DAX. 
 
 ## **Impact**  
 
-The dashboard provides clear and actionable insights into sales, profits, and product performance, enabling the XGRIP team to make data-driven decisions. It offers users a visually appealing interface with interactive features and seamless data updates, significantly improving the efficiency of business reporting and analysis.
-
----
+This dashboard gives the EdTech startup clear, category-focused insights into what drives learner engagement—highlighting top subjects, skills, languages, and instructors—so they can quickly tailor course offerings, improve accessibility with subtitles, and partner with high-performing educators to accelerate growth.
 
 ## **Key Learnings**  
-1. Importance of a clean, star-schema data model for high performance in Power BI.
-2. Techniques for using DAX to calculate time-based metrics and profit-related KPIs.
-3. How to integrate external media like product and flag images dynamically.
+1.The importance of category-wise segmentation in EdTech product strategy.
+2. How to use DAX to build advanced engagement metrics.
+3. Data-driven storytelling through interactive dashboards.
+4. The value of subtitle and language optimization for accessibility.
+5. Visualizing instructor performance to guide collaborative growth.
+
 
 
 

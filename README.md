@@ -6,7 +6,7 @@
 ### **Interactive Dashboard**  
 ![Insight_1](https://github.com/worksakshi/Online-Course-Analysis/blob/main/image%201.PNG)
 ![Insight_2](https://github.com/worksakshi/Online-Course-Analysis/blob/main/Image%202.PNG)
-![Insight_3](https://github.com/worksakshi/Online-Course-Analysis/blob/main/Image%202.PNG)
+![Insight_3](https://github.com/worksakshi/Online-Course-Analysis/blob/main/image%203.PNG)
 
 ---
 

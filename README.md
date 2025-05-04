@@ -45,9 +45,9 @@ This dashboard gives the EdTech startup clear, category-focused insights into wh
 
 ## **Key Learnings**  
 1.The importance of category-wise segmentation in EdTech product strategy.  
-2. How to use DAX to build advanced engagement metrics.
-3. Data-driven storytelling through interactive dashboards.
-4. The value of subtitle and language optimization for accessibility.
+2. How to use DAX to build advanced engagement metrics. 
+3. Data-driven storytelling through interactive dashboards. 
+4. The value of subtitle and language optimization for accessibility. 
 5. Visualizing instructor performance to guide collaborative growth.
 
 

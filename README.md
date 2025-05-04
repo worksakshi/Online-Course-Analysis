@@ -12,20 +12,28 @@ The Teacher table is been created to perform a specific instructor related query
 ---
 
 ## **Objective**  
-Designed a scalable, interactive dashboard for an e-commerce business to monitor sales, payment insights, and product performance across countries and time periods. The dashboard is built on a robust data model and supports strategic decision-making by offering insights into revenue trends, payment behaviors, and regional performance.
+To help an EdTech startup identify category-wise trends and strategic opportunities in recorded lectures using a comprehensive, interactive dashboard. This analysis aims to guide content creation, platform accessibility, and instructor collaborations based on data-driven insights.
 
----
-
-## **Action**  
 
 ### **Key Features**   
-- **Central Fact Table**: factEcommerce contains core transactional data like sales, orders, dates, country, product, and payment details.
-- **Dimensional Tables**: Linked dimension tables (e.g., dimProducts, dimCountry, dimPayment Method, and Calendar) support flexible 
-  filtering and drill-down.
-- **Interactive Dashboards**: Users can explore KPIs with slicers by product, continent, payment method, and time.
-- **Custom Visualizations**: Used maps, bar charts, and card visuals to highlight sales by country, category, and time.
-- **Dynamic DAX Measures**: Calculated revenue, total orders, average order value, and monthly trends.
-- **Image Integration**: Displayed product and country flag images directly within the dashboard using image URLs from external CSV files.
+1. **Course Type Trends**
+Analyzed course vs. specialization distribution across categories to reveal learner preferences and support informed content launch decisions.
+2. **Average Viewership Analysis**
+Calculated average views by category, sub-category, and language to understand viewer engagement and tailor content strategies accordingly.
+3. **In-Demand Skills by Category**
+Identified the most commonly taught and trending skills in each category, helping the company stay aligned with industry and job market demand.
+4. **Language Distribution**
+Visualized how different languages are used across courses and which categories favor which languages, helping optimize course accessibility.
+5. **Top 5 Categories – Language Preferences**
+Focused analysis on the five highest-performing categories based on user views to map viewer language preferences and course accessibility needs.
+6. **Subtitle Impact on Views**
+Analyzed the correlation between the number of subtitles and average views to determine if subtitle availability influences engagement.
+7. **Top Instructors by Ratings (Static View)**
+Highlighted the top three instructors per category and sub-category based on learner ratings, identifying key educators to potentially collaborate with.
+8. **Course Duration vs. Engagement**
+Explored how course length affects viewership. Adjusted duration for monthly content (60 hours/month) and flexible scheduling (200 hours).
+9. **Skill Variety vs. Viewership**
+Investigated whether the number of different skills offered in a category/sub-category affects viewer interest and total views.
 
 ### **Technology Stack**  
 - **Data Sources:**  CSV 

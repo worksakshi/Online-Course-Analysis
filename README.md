@@ -5,7 +5,8 @@
 
 ### **Interactive Dashboard**  
 ![Insight_1](https://github.com/worksakshi/Online-Course-Analysis/blob/main/image%201.PNG)
-![Insight_2](https://github.com/worksakshi/Ecommerce-Sales-Analysis-PowerBI-Dashboard/blob/main/image%202.PNG)
+![Insight_2](https://github.com/worksakshi/Online-Course-Analysis/blob/main/Image%202.PNG)
+![Insight_3](https://github.com/worksakshi/Online-Course-Analysis/blob/main/Image%202.PNG)
 
 ---
 

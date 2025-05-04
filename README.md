@@ -1,7 +1,8 @@
 # **Online Course Analysis**
 
 ### **Data Model** 
-![](https://github.com/worksakshi/Ecommerce-Sales-Analysis-PowerBI-Dashboard/blob/main/Data%20Model%20View.PNG)
+The Teacher table is been created to perform a specific instructor related query on the data,, so that only that specific data is transformed and filtered. It contains the same columns and the same data.
+![](https://github.com/worksakshi/Online-Course-Analysis/blob/main/Data%20Model.PNG)
 
 ### **Interactive Dashboard**  
 ![Insight_1](https://github.com/worksakshi/Online-Course-Analysis/blob/main/image%201.PNG)

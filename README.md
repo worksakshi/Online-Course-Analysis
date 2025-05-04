@@ -44,7 +44,7 @@ Investigated whether the number of different skills offered in a category/sub-ca
 This dashboard gives the EdTech startup clear, category-focused insights into what drives learner engagement—highlighting top subjects, skills, languages, and instructors—so they can quickly tailor course offerings, improve accessibility with subtitles, and partner with high-performing educators to accelerate growth.
 
 ## **Key Learnings**  
-1.The importance of category-wise segmentation in EdTech product strategy.
+1.The importance of category-wise segmentation in EdTech product strategy.  
 2. How to use DAX to build advanced engagement metrics.
 3. Data-driven storytelling through interactive dashboards.
 4. The value of subtitle and language optimization for accessibility.
